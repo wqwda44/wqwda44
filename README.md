@@ -27,4 +27,4 @@ Thanks for stopping by! 🙌
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-![snake](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
+
