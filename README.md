@@ -1,4 +1,4 @@
-![GIF](https://i0.wp.com/i.gifer.com/Fa1N.gif?ssl=1)
+![GIF](https://media.licdn.com/dms/image/C4D22AQH1c6kQvXUXtA/feedshare-shrink_800/0/1623217573469?e=2147483647&v=beta&t=Cm3MPWNl_Ujhk-WL5bpX_cULIt4DYi_bZ0tYk8b5Yko)
 
 ## About Me
 - 🌱 Currently learning and improving my skills in various technologies.
