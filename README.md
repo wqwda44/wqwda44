@@ -27,5 +27,8 @@ Thanks for stopping by! 🙌
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
+![snake](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh
+
+My telegram channel: [wqwda44](https://t.me/tryhackme2)
