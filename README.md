@@ -31,4 +31,4 @@ Thanks for stopping by! 🙌
 
 For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh
 
-My telegram channel: [wqwda44](https://t.me/tryhackme2)
+My telegram channel: [wqwda44](https://t.me/+Nezl7JZHT_Q2NzQy)
