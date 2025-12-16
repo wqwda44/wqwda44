@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://t.me/chanel441">
-    <img src="https://img.shields.io/badge/Telegram-@wqens-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-@44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://t.me/chanel441">
-    <img src="https://img.shields.io/badge/Channel-wgwd44-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Channel-44-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
@@ -89,18 +89,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wgwd44&show_icons=true&theme=dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wgwd44&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## ☕ Support
-
-USDT (TRC-20):  
-`TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh`
