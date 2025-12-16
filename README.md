@@ -1,34 +1,106 @@
-![GIF](https://static.wixstatic.com/media/d933fe_53724a5c4e0b4ca7b764a9c3a6d9d25d~mv2.gif)
+# wgwd44
 
-## About Me
-- 🌱 Currently learning and improving my skills in various technologies.
-- 💬 Feel free to ask me about Python, OpenCV, Telegram bot development, and automation.
-- 📫 How to reach me:
-  - **Telegram**: [@wqens](https://t.me/wqens)
+<p align="center">
+  <a href="https://t.me/chanel441">
+    <img src="https://img.shields.io/badge/Telegram-@wqens-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/chanel441">
+    <img src="https://img.shields.io/badge/Channel-wgwd44-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
-### 🧑‍💻 What I Do
-- **Programming Languages**: I primarily work with Python, JavaScript, and TypeScript. I love exploring new languages and technologies to expand my skill set.
-- **Web Development**: I enjoy building web applications using modern frameworks and libraries such as Django, Flask, React, and Node.js.
-- **Automation**: I'm fascinated by automation and create tools and scripts to simplify repetitive tasks.
-
-### 🌟 Achievements
-- **Open Source Contributor**: Contributed to several open-source projects
+---
 
 
-Thanks for stopping by! 🙌
+## 🧠 Programming Knowledge
 
-## Languages & Frameworks:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### 🧩 Core Fundamentals
+- Data structures: arrays, linked lists, stacks, queues
+- Memory model: stack vs heap
+- Program lifecycle: compilation → linking → execution
+- Modular code design and separation of concerns
 
-![snake](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
+---
 
-For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh
+### ⚙️ C / Low-Level Programming
+- Manual memory management
+- Pointers, structs, pointer arithmetic
+- Linked lists implemented from scratch
+- Header/source file separation
+- Makefiles and build process
+- Terminal-based programs and simple games
 
-My telegram channel: [wqwda44](https://t.me/+Nezl7JZHT_Q2NzQy)
+---
+
+### 🐍 Python
+- Automation and scripting
+- Telegram bot development
+- API interaction
+- Data processing with Pandas
+- Python ↔ hardware integration
+- Writing readable and maintainable code
+
+---
+
+### 🌐 Backend & Web
+- Django, Flask
+- REST API design
+- Client–server architecture
+- ORM-based database interaction
+- Basic authentication and error handling
+- JavaScript fundamentals
+- Node.js basics
+- Asynchronous programming concepts
+
+---
+
+### 🤖 Automation
+- Monitoring scripts
+- Web interaction and scraping
+- Notification systems (Telegram)
+- Eliminating repetitive manual tasks
+
+---
+
+### 🖥️ Systems & OS Basics
+- Process execution
+- Standard input/output streams
+- File system interaction
+- Networking basics (TCP/IP, sockets)
+- Linux development environment
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=flat&logo=django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wgwd44&show_icons=true&theme=dark&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wgwd44&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## ☕ Support
+
+USDT (TRC-20):  
+`TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh`
