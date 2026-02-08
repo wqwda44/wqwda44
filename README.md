@@ -1,91 +1,50 @@
-# wgwd44
 
-<p align="center">
-  <a href="https://t.me/chanel441">
-    <img src="https://img.shields.io/badge/Telegram-@44-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/chanel441">
-    <img src="https://img.shields.io/badge/Channel-44-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+## 44 — Systems / Automation Developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-@chanel441-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/chanel441)
+![Nick](https://img.shields.io/badge/Nick-44-black?style=flat)
 
 ---
 
-
-## 🧠 Programming Knowledge
-
-### 🧩 Core Fundamentals
-- Data structures: arrays, linked lists, stacks, queues
-- Memory model: stack vs heap
-- Program lifecycle: compilation → linking → execution
-- Modular code design and separation of concerns
-
----
-
-### ⚙️ C / Low-Level Programming
-- Manual memory management
-- Pointers, structs, pointer arithmetic
-- Linked lists implemented from scratch
-- Header/source file separation
-- Makefiles and build process
-- Terminal-based programs and simple games
+### Tech Stack
+![C](https://img.shields.io/badge/C-C99-blue?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat&logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Systems-black?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![Makefile](https://img.shields.io/badge/Build-Makefile-6D00CC?style=flat)
+![Arduino](https://img.shields.io/badge/Embedded-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-### 🐍 Python
-- Automation and scripting
-- Telegram bot development
-- API interaction
-- Data processing with Pandas
-- Python ↔ hardware integration
-- Writing readable and maintainable code
+### Domains
+- Network tooling  
+- Automation & scraping  
+- Proxy infrastructure  
+- OSINT-style utilities  
+- Bot development & monitoring  
+- Practical protocol / behavior analysis  
 
 ---
 
-### 🌐 Backend & Web
-- Django, Flask
-- REST API design
-- Client–server architecture
-- ORM-based database interaction
-- Basic authentication and error handling
-- JavaScript fundamentals
-- Node.js basics
-- Asynchronous programming concepts
+### Engineering Experience
+- Network utilities: proxy grabbing, validation, fast-check pipelines  
+- Automation tools for data collection, filtering, reporting  
+- Telegram bots: statistics, monitoring, event-driven notifications  
+- Low-level C utilities with explicit memory and execution control  
+- Arduino utilities with timing-sensitive logic and direct hardware access  
+- Analysis of undocumented / weakly documented systems via testing  
+- Structuring multi-tool repositories for reuse and rapid iteration  
 
 ---
 
-### 🤖 Automation
-- Monitoring scripts
-- Web interaction and scraping
-- Notification systems (Telegram)
-- Eliminating repetitive manual tasks
+### Engineering Focus
+- explicit control over execution and data flow  
+- performance and determinism  
+- minimal abstractions  
+- systems understanding over frameworks  
 
 ---
 
-### 🖥️ Systems & OS Basics
-- Process execution
-- Standard input/output streams
-- File system interaction
-- Networking basics (TCP/IP, sockets)
-- Linux development environment
-
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=flat&logo=django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino"/>
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/>
-</p>
-
----
+### Notes
+Utility-driven, experimental tooling.  
+Priority: **functionality, speed, control**.
