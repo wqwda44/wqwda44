@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="44@platform:~$ uptime">
+<title>44@platform:~$ uptime</title>
+<!-- load average 0.44 is not a coincidence -->
+<defs>
+  <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070a12"/><stop offset="1" stop-color="#0f1424"/></linearGradient>
+  <linearGradient id="fink" gradientUnits="userSpaceOnUse" x1="56" y1="33" x2="192" y2="117">
+    <stop offset="0" stop-color="#67e8f9"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
+  </linearGradient>
+  <pattern id="fgrid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
+  <clipPath id="fcard"><rect width="1200" height="150" rx="18"/></clipPath>
+  <style>
+    .t{font:500 15px 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace}
+    .cv{animation:cv 12.0s steps(6,end) infinite}
+    @keyframes cv{0%,5.00%{transform:translateX(0)}9.17%,100%{transform:translateX(74px)}}
+    .rp{animation:rp 12.0s linear infinite}
+    @keyframes rp{0%,11.67%{opacity:0}12.92%,93.33%{opacity:1}100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+</defs>
+<g clip-path="url(#fcard)">
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+  <rect width="1200" height="150" fill="url(#fgrid)"/>
+  <path d="M72.0 38.4L77.6 38.4M77.6 38.4L77.6 47.0M72.0 41.6L74.4 41.6M74.4 41.6L74.4 47.0M112.0 38.4L117.6 38.4M117.6 38.4L117.6 47.0M112.0 41.6L114.4 41.6M114.4 41.6L114.4 47.0M144.0 38.4L149.6 38.4M149.6 38.4L149.6 47.0M144.0 41.6L146.4 41.6M146.4 41.6L146.4 47.0M184.0 38.4L189.6 38.4M189.6 38.4L189.6 47.0M184.0 41.6L186.4 41.6M186.4 41.6L186.4 47.0M74.4 47.0L74.4 61.0M77.6 47.0L77.6 61.0M114.4 47.0L114.4 61.0M117.6 47.0L117.6 61.0M146.4 47.0L146.4 61.0M149.6 47.0L149.6 61.0M186.4 47.0L186.4 61.0M189.6 47.0L189.6 61.0M114.4 61.0L114.4 75.0M117.6 61.0L117.6 75.0M186.4 61.0L186.4 75.0M189.6 61.0L189.6 75.0M58.4 75.0L58.4 83.6M58.4 83.6L64.0 83.6M61.6 75.0L61.6 80.4M61.6 80.4L64.0 80.4M64.0 80.4L72.0 80.4M64.0 83.6L72.0 83.6M72.0 80.4L80.0 80.4M72.0 83.6L80.0 83.6M80.0 80.4L88.0 80.4M80.0 83.6L88.0 83.6M88.0 80.4L96.0 80.4M88.0 83.6L96.0 83.6M114.4 75.0L114.4 89.0M117.6 75.0L117.6 89.0M130.4 75.0L130.4 83.6M130.4 83.6L136.0 83.6M133.6 75.0L133.6 80.4M133.6 80.4L136.0 80.4M136.0 80.4L144.0 80.4M136.0 83.6L144.0 83.6M144.0 80.4L152.0 80.4M144.0 83.6L152.0 83.6M152.0 80.4L160.0 80.4M152.0 83.6L160.0 83.6M160.0 80.4L168.0 80.4M160.0 83.6L168.0 83.6M186.4 75.0L186.4 89.0M189.6 75.0L189.6 89.0M114.4 89.0L114.4 103.0M117.6 89.0L117.6 103.0M186.4 89.0L186.4 103.0M189.6 89.0L189.6 103.0M98.4 103.0L98.4 111.6M98.4 111.6L104.0 111.6M101.6 103.0L101.6 108.4M101.6 108.4L104.0 108.4M104.0 108.4L112.0 108.4M104.0 111.6L112.0 111.6M117.6 103.0L117.6 111.6M117.6 111.6L112.0 111.6M114.4 103.0L114.4 108.4M114.4 108.4L112.0 108.4M170.4 103.0L170.4 111.6M170.4 111.6L176.0 111.6M173.6 103.0L173.6 108.4M173.6 108.4L176.0 108.4M176.0 108.4L184.0 108.4M176.0 111.6L184.0 111.6M189.6 103.0L189.6 111.6M189.6 111.6L184.0 111.6M186.4 103.0L186.4 108.4M186.4 108.4L184.0 108.4" fill="none" stroke="#64748b" stroke-width="1.2"/>
+  <g fill="url(#fink)"><rect x="56" y="33" width="8.5" height="14.5"/><rect x="64" y="33" width="8.5" height="14.5"/><rect x="96" y="33" width="8.5" height="14.5"/><rect x="104" y="33" width="8.5" height="14.5"/><rect x="128" y="33" width="8.5" height="14.5"/><rect x="136" y="33" width="8.5" height="14.5"/><rect x="168" y="33" width="8.5" height="14.5"/><rect x="176" y="33" width="8.5" height="14.5"/><rect x="56" y="47" width="8.5" height="14.5"/><rect x="64" y="47" width="8.5" height="14.5"/><rect x="96" y="47" width="8.5" height="14.5"/><rect x="104" y="47" width="8.5" height="14.5"/><rect x="128" y="47" width="8.5" height="14.5"/><rect x="136" y="47" width="8.5" height="14.5"/><rect x="168" y="47" width="8.5" height="14.5"/><rect x="176" y="47" width="8.5" height="14.5"/><rect x="56" y="61" width="8.5" height="14.5"/><rect x="64" y="61" width="8.5" height="14.5"/><rect x="72" y="61" width="8.5" height="14.5"/><rect x="80" y="61" width="8.5" height="14.5"/><rect x="88" y="61" width="8.5" height="14.5"/><rect x="96" y="61" width="8.5" height="14.5"/><rect x="104" y="61" width="8.5" height="14.5"/><rect x="128" y="61" width="8.5" height="14.5"/><rect x="136" y="61" width="8.5" height="14.5"/><rect x="144" y="61" width="8.5" height="14.5"/><rect x="152" y="61" width="8.5" height="14.5"/><rect x="160" y="61" width="8.5" height="14.5"/><rect x="168" y="61" width="8.5" height="14.5"/><rect x="176" y="61" width="8.5" height="14.5"/><rect x="96" y="75" width="8.5" height="14.5"/><rect x="104" y="75" width="8.5" height="14.5"/><rect x="168" y="75" width="8.5" height="14.5"/><rect x="176" y="75" width="8.5" height="14.5"/><rect x="96" y="89" width="8.5" height="14.5"/><rect x="104" y="89" width="8.5" height="14.5"/><rect x="168" y="89" width="8.5" height="14.5"/><rect x="176" y="89" width="8.5" height="14.5"/></g>
+  <line x1="240" y1="30" x2="240" y2="120" stroke="#1e293b"/>
+  <text x="270" y="66" class="t"><tspan fill="#a78bfa">44@platform</tspan><tspan fill="#64748b">:</tspan><tspan fill="#67e8f9">~</tspan><tspan fill="#64748b">$ </tspan><tspan fill="#e2e8f0">uptime</tspan></text>
+  <text x="270" y="94" class="t rp" fill="#94a3b8" xml:space="preserve"> 04:44:44 up 44 days,  4:44,  1 user,  load average: 0.44, 0.44, 0.44</text>
+  <rect class="cur rp" x="270" y="108" width="9" height="17" fill="#67e8f9"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="149" rx="17.5" fill="none" stroke="#1e293b"/>
+</svg>
