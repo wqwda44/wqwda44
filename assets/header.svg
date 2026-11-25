@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="44 — DevOps / Platform Engineer">
+<title>44 — DevOps / Platform Engineer</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070a12"/><stop offset="1" stop-color="#0f1424"/>
+  </linearGradient>
+  <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0.4">
+    <stop offset="0" stop-color="#67e8f9"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/>
+  </linearGradient>
+  <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#6366f1" stop-opacity=".45"/><stop offset=".6" stop-color="#22d3ee" stop-opacity=".08"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/><stop offset=".5" stop-color="#67e8f9" stop-opacity=".07"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".55" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <mask id="gridmask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+  <clipPath id="term"><rect x="601" y="69" width="550" height="234" rx="11"/></clipPath>
+  <clipPath id="card"><rect width="1200" height="340" rx="18"/></clipPath>
+  <style>
+.p{font:600 14px 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace;fill:#a78bfa}
+.cmd{font:500 14px 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace;fill:#e2e8f0}
+.out{font:400 14px 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.glow{animation:glow 7s ease-in-out infinite alternate;transform-origin:300px 170px}
+@keyframes glow{from{opacity:.55;transform:scale(1)}to{opacity:.9;transform:scale(1.12)}}
+.scan{animation:scan 6s linear infinite}
+@keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(380px)}}
+.g1{animation:g1 5s steps(1) infinite}
+.g2{animation:g2 5s steps(1) infinite}
+@keyframes g1{0%,88%,100%{transform:translate(0,0);opacity:0}89%{transform:translate(-4px,1px);opacity:.7}91%{transform:translate(3px,-1px);opacity:.6}93%{opacity:0}}
+@keyframes g2{0%,88%,100%{transform:translate(0,0);opacity:0}90%{transform:translate(4px,-1px);opacity:.7}92%{transform:translate(-3px,1px);opacity:.6}94%{opacity:0}}
+.dot{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes l0c{0.000%{opacity:0}5.000%{opacity:0}5.062%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+@keyframes cv0{0.000%{transform:translateX(0)}5.000%{transform:translateX(0)}10.500%{transform:translateX(148px)}100.000%{transform:translateX(148px)}}
+.l0c{animation:l0c 16.0s linear infinite}.cv0{animation:cv0 16.0s steps(14,end) infinite}
+@keyframes o0{0.000%{opacity:0}12.688%{opacity:0}13.625%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+.o0{animation:o0 16.0s linear infinite}
+@keyframes l1c{0.000%{opacity:0}18.312%{opacity:0}18.375%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+@keyframes cv1{0.000%{transform:translateX(0)}18.312%{transform:translateX(0)}29.156%{transform:translateX(312px)}100.000%{transform:translateX(312px)}}
+.l1c{animation:l1c 16.0s linear infinite}.cv1{animation:cv1 16.0s steps(33,end) infinite}
+@keyframes o1{0.000%{opacity:0}31.344%{opacity:0}32.281%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+.o1{animation:o1 16.0s linear infinite}
+@keyframes l2c{0.000%{opacity:0}36.969%{opacity:0}37.031%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+@keyframes cv2{0.000%{transform:translateX(0)}36.969%{transform:translateX(0)}45.281%{transform:translateX(234px)}100.000%{transform:translateX(234px)}}
+.l2c{animation:l2c 16.0s linear infinite}.cv2{animation:cv2 16.0s steps(24,end) infinite}
+@keyframes o2{0.000%{opacity:0}47.469%{opacity:0}48.406%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+.o2{animation:o2 16.0s linear infinite}
+@keyframes l3c{0.000%{opacity:0}53.094%{opacity:0}53.156%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+@keyframes cv3{0.000%{transform:translateX(0)}53.094%{transform:translateX(0)}56.344%{transform:translateX(78px)}100.000%{transform:translateX(78px)}}
+.l3c{animation:l3c 16.0s linear infinite}.cv3{animation:cv3 16.0s steps(6,end) infinite}
+@keyframes o3{0.000%{opacity:0}58.531%{opacity:0}59.469%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+.o3{animation:o3 16.0s linear infinite}
+@keyframes last{0.000%{opacity:0}64.156%{opacity:0}64.219%{opacity:1}92.500%{opacity:1}94.375%{opacity:0}100.000%{opacity:0}}
+.last{animation:last 16.0s linear infinite}</style>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridmask)"/>
+  <ellipse class="glow" cx="300" cy="170" rx="330" ry="210" fill="url(#halo)"/>
+  <rect class="scan" x="0" y="0" width="1200" height="60" fill="url(#scanline)"/>
+
+  <g font-family="'Inter','Segoe UI','SF Pro Display',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+    <text x="70" y="96" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="3" fill="#64748b">~/wqwda44 · README.md</text>
+    <g font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-weight="800" font-size="150" letter-spacing="-6">
+      <text class="g1" x="62" y="222" fill="#22d3ee">44</text>
+      <text class="g2" x="62" y="222" fill="#c084fc">44</text>
+      <text x="62" y="222" fill="url(#ink)">44</text>
+    </g>
+    <text x="300" y="168" font-size="30" font-weight="700" fill="#f1f5f9">DevOps</text>
+    <text x="300" y="204" font-size="30" font-weight="300" fill="#cbd5e1">Platform Engineer</text>
+    <g font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#94a3b8">
+      <circle class="dot" cx="76" cy="266" r="5" fill="#4ade80"/>
+      <text x="90" y="271">aws · kubernetes · terraform · gitops · observability</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="600" y="36" width="552" height="268" rx="12" fill="#0b1020" stroke="#1e293b"/>
+    <path d="M612 36.5h528a11.5 11.5 0 0 1 11.5 11.5v20.5h-551v-20.5a11.5 11.5 0 0 1 11.5-11.5z" fill="#111827"/>
+    <line x1="600.5" y1="68.5" x2="1151.5" y2="68.5" stroke="#1e293b"/>
+    <circle cx="620" cy="52" r="5.5" fill="#f87171"/>
+    <circle cx="638" cy="52" r="5.5" fill="#fbbf24"/>
+    <circle cx="656" cy="52" r="5.5" fill="#4ade80"/>
+    <text x="876.0" y="57" text-anchor="middle" font-family="'JetBrains Mono','SF Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#64748b">44@platform: ~/infra</text>
+    <g clip-path="url(#term)"><g class="l0c"><text x="622" y="96" class="p">❯</text><text x="640" y="96" class="cmd">terraform plan</text><rect class="cv0" x="638" y="82" width="148" height="20" fill="#0b1020"/></g><text x="640" y="118" class="out o0" fill="#4ade80">No changes. Your infrastructure matches the configuration.</text><g class="l1c"><text x="622" y="143" class="p">❯</text><text x="640" y="143" class="cmd">kubectl rollout status deploy/api</text><rect class="cv1" x="638" y="129" width="312" height="20" fill="#0b1020"/></g><text x="640" y="165" class="out o1" fill="#e2e8f0">deployment &quot;api&quot; successfully rolled out</text><g class="l2c"><text x="622" y="190" class="p">❯</text><text x="640" y="190" class="cmd">argocd app sync platform</text><rect class="cv2" x="638" y="176" width="234" height="20" fill="#0b1020"/></g><text x="640" y="212" class="out o2" fill="#4ade80">✔ Synced  ·  ✔ Healthy</text><g class="l3c"><text x="622" y="237" class="p">❯</text><text x="640" y="237" class="cmd">whoami</text><rect class="cv3" x="638" y="223" width="78" height="20" fill="#0b1020"/></g><text x="640" y="259" class="out o3" fill="#67e8f9">devops engineer — aws · k8s · terraform · gitops</text><g class="last"><text x="622" y="284" class="p">❯</text><rect class="cur" x="640" y="272" width="9" height="16" fill="#67e8f9"/></g></g>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="17.5" fill="none" stroke="#1e293b"/>
+</svg>
