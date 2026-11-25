@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<a href="https://t.me/chanel441"><img src="https://img.shields.io/badge/Telegram-@chanel441-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @chanel441"/></a>
+<a href="https://t.me/bz444aj1"><img src="https://img.shields.io/badge/Telegram-@bz444aj1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @bz444aj1"/></a>
 
 </div>
 
